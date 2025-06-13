@@ -47,7 +47,7 @@
 
 ## 🌍 Live Preview
 
-Coming soon on GitHub Pages or Netlify!
+(https://GPdeMAYOR.github.io/GP-Hub/)
 
 ---
 
